@@ -1,4 +1,7 @@
 # Text101
-Text101 is a very simple text adventure. The user will read the story and press a single key from a list of one or more. The computer then will display a new screen of text in response to this input.
+Text101 is a very simple text adventure. The user will read the story and press a single key from a list of one or more. The computer then will display a new screen of text in response to this input. 
 
-Compiled game binary is: Text101.exe
+Escape the prison!
+
+Compiled game binary is: 
+  Text101.exe
